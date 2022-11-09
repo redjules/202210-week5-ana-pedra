@@ -28,4 +28,3 @@ Cualquiera de tus funciones puede usar las que ya hayas creado.
 
 ## SONAR COVERAGE
 
-https://sonarcloud.io/summary/overall?id=mig-code__202210-W5-MiguelPgomez
