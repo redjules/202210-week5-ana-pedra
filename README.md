@@ -25,6 +25,3 @@ Cualquiera de tus funciones puede usar las que ya hayas creado.
 -Utiliza Github Actions Audit en el flujo de Github (DONE)
 
 -Configura SonarCloud asociado a tu repositorio, incluyendo el coverage de los tests
-
-## SONAR COVERAGE
-
