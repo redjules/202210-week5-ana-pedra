@@ -15,7 +15,7 @@ import {
     arrayJoin,
 } from "./arrayFunctions";
 
-// const joinCases = ['','-',', ']
+
 const extraElement = 50;
 const includedElement = "Present";
 const even = (element) => element % 2 === 0;
